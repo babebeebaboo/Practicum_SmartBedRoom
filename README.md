@@ -1,19 +1,26 @@
 # Practicum_Project_SmartRoom
-##### By Supakorn Wongsawang, Rawit Panjaroen<br /><br />
-Python folder is store all python file to use in this project.<br />
-Babe_Board folder is store MCU's file for Board ID 5910500147.<br />
-Check_Board folder is store MCU's file for Board ID 591050xxxx.<br />
-HAP-NodeJS folder is store all the file to use Siri Homekit with Apple Devices.<br />
-index.html is file to open a web controlled page.<br />
-# Python Section
 
-# Web Section
+## Developers
+  * Supakorn Wongsawang 
+  * Rawit Panjaroen 
+Department of Computer Engineering, Faculty of Engineering, Kasetsart University.
+
+## File Description
+  * /Python : all python file to use in this project
+  * /Babe_Board/main.ino : MCU's file for Board ID 5910500147
+  * /Check_Board : MCU's file for Board ID 591050xxxx
+  * /HAP-NodeJS : all Siri Homekit file to use with Apple Devices.
+  * index.html : web controlled page
+  
+## Python Section
+
+## Web Section
 ```sh
 python3 web-server.py
 chrome index.html
 ```
 
-# Homekit Section
+## Homekit Section
 
 Make sure you have node and npm install in your computer 
 ```sh
@@ -33,7 +40,7 @@ python3 web-server.py
 cd HAP-NodeJS
 node BridgedCore.js
 ```
-## Home App
+### Home App
 ```
 Go to 'Home' app in your iphone/ipad
 add a new accessories
