@@ -15,7 +15,7 @@ sudo npm install -g node-gyp
 git clone https://github.com/babebeebaboo/Practicum_Project_SmartRoom
 cd HAP-NodeJS
 npm rebuild
-npm install
+npm install 
 ```
 
 Run
