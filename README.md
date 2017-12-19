@@ -28,6 +28,7 @@ npm install
 
 Run
 ```sh
+python3 web-server.py
 cd HAP-NodeJS
 node BridgedCore.js
 ```
