@@ -1,9 +1,6 @@
 # Practicum_Project_SmartRoom
-Practicum's project By
+By Supakorn Wongsawang, Rawit Panjaroen
 
-Supakorn Wongsawang 
-
-Rawit Panjaroen
 # Python Section
 
 # Web Section
