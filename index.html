@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Smart Room</title>
+    <script type="text/javascript">
+        window.setInterval("reloadIFrame();", 200);
+        function reloadIFrame() {
+
+            document.getElementById('light0frame').src += '';
+            document.getElementById('light1frame').src += '';
+            document.getElementById('light2frame').src += '';
+            document.getElementById('airframe').src += '';
+            document.getElementById('lockframe').src += '';
+
+            console.log("REFRESH")
+        }
+    </script>
+</head>
+
+<body>
+    <iframe width="40" height="25" src="http://localhost:30000/light0" id="light0frame"></iframe>
+    <a href="http://localhost:30000/light0?set=on" target="iframe1">
+        <button>light0 ON</button>
+    </a>
+    <a href="http://localhost:30000/light0?set=off" target="iframe1">
+        <button>light0 OFF</button>
+    </a>
+    <p></p>
+    <iframe width="40" height="25" src="http://localhost:30000/light1" id="light1frame"></iframe>
+    <a href="http://localhost:30000/light1?set=on" target="iframe1">
+        <button>light1 ON</button>
+    </a>
+    <a href="http://localhost:30000/light1?set=off" target="iframe1">
+        <button>light1 OFF</button>
+    </a>
+    <p></p>
+    <iframe width="40" height="25" src="http://localhost:30000/light2" id="light2frame"></iframe>
+    <a href="http://localhost:30000/light2?set=on" target="iframe1">
+        <button>light2 ON</button>
+    </a>
+    <a href="http://localhost:30000/light2?set=off" target="iframe1">
+        <button>light2 OFF</button>
+    </a>
+    <p></p>
+    <iframe width="40" height="25" src="http://localhost:30000/air" id="airframe"></iframe>
+    <a href="http://localhost:30000/air?set=on" target="iframe1">
+        <button>Air ON</button>
+    </a>
+    <a href="http://localhost:30000/air?set=off" target="iframe1">
+        <button>Air OFF</button>
+    </a>
+    <p></p>
+    <iframe width="40" height="25" src="http://localhost:30000/lock" id="lockframe"></iframe>
+    <a href="http://localhost:30000/lock?set=on" target="iframe1">
+        <button>Lock</button>
+    </a>
+    <a href="http://localhost:30000/lock?set=off" target="iframe1">
+        <button>Unlock</button>
+    </a>
+    <br>
+    <p></p>
+    <iframe width="40" height="25" src="http://localhost:30000/temp" id="lockframe"></iframe> Temperature 
+    <br>
+    <p></p>
+    <iframe width="40" height="25" src="http://localhost:30000/humid" id="lockframe"></iframe> Humidity
+<br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <iframe name="iframe1"></iframe>
+
+</body>
+
+</html>
