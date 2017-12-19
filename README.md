@@ -49,7 +49,7 @@ Go to 'Home' app in your iphone/ipad
 add a new accessories
 Select 'Node Bridge'
 Tap 'Confirm'
-And scan this code below
+And scan the code below
 Tap Add all accessories
 ```
 ![alt text](https://github.com/babebeebaboo/Practicum_SmartBedRoom/blob/master/Homekit%20CODE.jpg)
