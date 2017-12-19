@@ -1,6 +1,9 @@
 HAP-NodeJS/persist
 HAP-NodeJS/node_modules
 */.DS_Store
+.DS_Store
 HAP-NodeJS/__pycache__/*
 HAP-NodeJS/access BAK/*
 HAP-NodeJS/*.txt 
+__pycache__
+*/__pycache__
