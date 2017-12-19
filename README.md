@@ -42,5 +42,4 @@ Tap 'Confirm'
 And scan this code below
 Tap Add all accessories
 ```
-
-[CODE](https://github.com/babebeebaboo/Practicum_SmartBedRoom/blob/master/Homekit%20CODE.jpg) 
+![alt text](https://github.com/babebeebaboo/Practicum_SmartBedRoom/blob/master/Homekit%20CODE.jpg)
