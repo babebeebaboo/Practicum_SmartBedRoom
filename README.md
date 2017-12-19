@@ -4,8 +4,15 @@ Practicum's project By
 Supakorn Wongsawang 
 
 Rawit Panjaroen
+# Python Section
 
-## Homekit Section
+# Web Section
+```sh
+python3 web-server.py
+chrome index.html
+```
+
+# Homekit Section
 
 Make sure you have node and npm install in your computer 
 ```sh
@@ -21,6 +28,7 @@ npm install
 
 Run
 ```sh
+cd HAP-NodeJS
 node BridgedCore.js
 ```
 ## Home App
