@@ -33,4 +33,4 @@ And scan this code below
 Tap Add all accressories
 ```
 
-[CODE]() 
+[CODE](https://github.com/babebeebaboo/Practicum_SmartBedRoom/blob/master/Homekit%20CODE.jpg) 
