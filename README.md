@@ -12,6 +12,7 @@ Department of Computer Engineering, Faculty of Engineering, Kasetsart University
   * /Check_Board : MCU's file for Board ID 591050xxxx
   * /HAP-NodeJS : all Siri Homekit file to use with Apple Devices.
   * index.html : web controlled page
+  * schematic.pdf : schematic diagram
   
 ## Python Section
 
