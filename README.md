@@ -51,3 +51,11 @@ And scan this code below
 Tap Add all accessories
 ```
 ![alt text](https://github.com/babebeebaboo/Practicum_SmartBedRoom/blob/master/Homekit%20CODE.jpg)
+
+## Hardware
+ * ATmega168 microcontroller
+ * Relay
+ * RFID Reader
+ * Switch
+ * DHT11
+ * Servo
