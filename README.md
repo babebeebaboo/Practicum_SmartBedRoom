@@ -12,6 +12,7 @@ Make sure you have node and npm install in your computer
 cd 
 sudo npm config set registry http://registry.npmjs.org/
 sudo npm install -g node-gyp
+npm install request
 git clone https://github.com/babebeebaboo/Practicum_Project_SmartRoom
 cd HAP-NodeJS
 npm rebuild
