@@ -33,4 +33,4 @@ And scan this code below
 Tap Add all accressories
 ```
 
-[CODE](https://www.mx7.com/i/133/t19zfy.jpg) 
+[CODE]() 
